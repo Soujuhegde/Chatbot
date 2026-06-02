@@ -240,4 +240,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 If you have questions, run into issues, or want to suggest new capabilities:
 * **GitHub Issues**: Open a ticket at [https://github.com/Soujuhegde/Chatbot/issues](https://github.com/Soujuhegde/Chatbot/issues) for bugs and features.
 * **Developer/Author**: Souju Hegde
-* **Email Support**: [support@sarvam.ai](mailto:support@sarvam.ai) / contact the repository maintainers.
+
