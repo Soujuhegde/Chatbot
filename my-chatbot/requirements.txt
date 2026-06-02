@@ -1,1 +1,6 @@
 # Dependencies
+streamlit
+langchain
+langchain-community
+python-dotenv
+requests
